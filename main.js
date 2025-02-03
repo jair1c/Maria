@@ -29,6 +29,6 @@ onload = () => {
 
     // Evento para redirigir al hacer clic en el botón
     document.getElementById("mostrarSV").addEventListener("click", function() {
-        window.location.href = "sv/index.html"; // Asegúrate de que la ruta sea correcta
+        window.location.href = "https://bby-two.vercel.app/"; // Asegúrate de que la ruta sea correcta
     });
 };
