@@ -1660,6 +1660,7 @@ h1 {
 .botones {
   position: absolute;
   bottom: 20px;
+  top: 80%;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
