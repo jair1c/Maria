@@ -25,7 +25,9 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: white;
   position: absolute;
-  margin-bottom: 80%;
+  top: 10%; /* Ajusta este valor para moverlo más arriba */
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 1;
   font-weight: bold;
   letter-spacing: 4px;
